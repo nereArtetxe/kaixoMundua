@@ -16,6 +16,8 @@ public class Sistema {
 	else
 	{
 		System.out.println("Aukera hau ez da inoiz ere aterako");
+		
+		
 	}
 	}
 
