@@ -13,10 +13,7 @@ public class Sistema {
 		{
 			System.out.println("hau da sartuko dena");
 		}
-		else
-		{
-			System.out.println("Aukera hau ez da inoiz ere aterako");
-		}
+	
 	}
 
 }
