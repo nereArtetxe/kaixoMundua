@@ -13,6 +13,9 @@ public class Sistema {
 		{
 			System.out.println("hau da sartuko dena");
 		}
+		else{
+			System.out.println("Ez da sartuko");
+		}
 	
 	}
 
